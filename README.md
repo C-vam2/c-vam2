@@ -3,8 +3,11 @@
 
 ---
 
+### 👨‍💻 About Me  
+- 🎓 I am currently pursuing **B.Tech in Computer Science and Engineering** at **IIIT Dharwad**.  
 - 🌱 **Currently Learning:** ReactJS, NextJS  
 - 💬 **Ask Me About:** Flutter, React, Data Structures, Algorithms  
+- 🌟 **Passionate About:** Building scalable applications and solving real-world problems with technology.  
 - 📫 **Reach Me At:** [shivamdellvostro@gmail.com](mailto:shivamdellvostro@gmail.com)  
 - 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1wBITVuFH52bZJrplRAVBnQg_7FIfAISw/view?usp=sharing)
 
