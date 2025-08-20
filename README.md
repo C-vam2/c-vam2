@@ -9,7 +9,7 @@
 - 💬 **Ask Me About:** Flutter, React, Data Structures, Algorithms  
 - 🌟 **Passionate About:** Building scalable applications and solving real-world problems with technology.  
 - 📫 **Reach Me At:** [shivamdellvostro@gmail.com](mailto:shivamdellvostro@gmail.com)  
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1wBITVuFH52bZJrplRAVBnQg_7FIfAISw/view?usp=sharing)
+
 
 ---
 
@@ -20,9 +20,6 @@
   </a>
   <a href="https://linkedin.com/in/shivam-kumar-b3894522b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-b3894522b" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/c___vam2107" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c___vam2107" height="30" width="40" />
   </a>
 </p>
 
