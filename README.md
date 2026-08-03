@@ -28,13 +28,16 @@
 ### 🚀 Highlights & Featured Projects
 
 - 🔐 **Go CLI Login System** `[Go, Cobra, PostgreSQL, Docker, TOTP]`  
-  Dockerized authentication CLI with bcrypt password hashing, account lockouts, Google Authenticator-compatible TOTP MFA, and session management.
+  Dockerized authentication CLI with bcrypt password hashing, account lockouts, Google Authenticator-compatible TOTP MFA, and session management.  
+  👉 [**View Project**](https://github.com/C-vam2/osto-go-cli-login-system)
 
 - 🏦 **Bank API** `[Go, Gin, PostgreSQL, SQLC, Docker, GitHub Actions]`  
-  RESTful banking backend providing ACID-compliant multi-account transactions using PostgreSQL transactions and SQLC.
+  RESTful banking backend providing ACID-compliant multi-account transactions using PostgreSQL transactions and SQLC.  
+  👉 [**View Project**](https://github.com/C-vam2/Agentic_Bank_Server)
 
 - 👁️ **Action Recognition System** `[C++, Python, OpenCV]`  
-  Computer vision pipeline for human action recognition using Improved Dense Trajectories, HOG/HOF/MBH descriptors, and SVM classification on the UCF Sports dataset.
+  Computer vision pipeline for human action recognition using Improved Dense Trajectories, HOG/HOF/MBH descriptors, and SVM classification on the UCF Sports dataset.  
+  👉 [**View Project**](https://github.com/C-vam2/Mini-Project-Action-Recoginition-with-Improved-Dense-Trajectories-)
 
 ---
 
